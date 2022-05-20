@@ -13,6 +13,9 @@ body {
     background: #333;
     font-size: 110%;
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .card {
     background: #000000d0;
